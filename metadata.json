@@ -1,0 +1,8 @@
+{
+  "name": "PrepMaster",
+  "description": "An intelligent interview and debate coaching application powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
